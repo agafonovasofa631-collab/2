@@ -350,4 +350,4 @@ double avg = std::chrono::duration<double>(end - start).count() / N;
 ---
 
 **Ссылка на Git-репозиторий с кодом программы:**  
-[https://github.com/agafonovasofa631-collab/-2-.git](https://github.com/agafonovasofa631-collab/-2-.git)
+https://github.com/agafonovasofa631-collab/2.git
